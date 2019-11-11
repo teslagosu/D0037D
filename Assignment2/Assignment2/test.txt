@@ -1,0 +1,5 @@
+benji,god of cs
+dator,en manick som inte fungerar
+god,person who some people thinks created the world
+hund,ett annat djur
+katt,ett djur

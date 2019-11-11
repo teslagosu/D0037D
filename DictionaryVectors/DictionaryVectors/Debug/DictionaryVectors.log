@@ -1,0 +1,5 @@
+﻿  DictionaryVectors.cpp
+c:\users\sebastian\source\repos\dictionaryvectors\dictionaryvectors\dictionaryvectors.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\sebastian\source\repos\dictionaryvectors\dictionaryvectors\dictionaryvectors.cpp(69): warning C4715: 'checkIfWordExcist': not all control paths return a value
+c:\users\sebastian\source\repos\dictionaryvectors\dictionaryvectors\dictionaryvectors.cpp(98): warning C4715: 'getIndexOfWord': not all control paths return a value
+  DictionaryVectors.vcxproj -> C:\Users\sebastian\source\repos\DictionaryVectors\Debug\DictionaryVectors.exe

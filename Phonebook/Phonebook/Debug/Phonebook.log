@@ -1,0 +1,4 @@
+﻿  Phonebook.cpp
+c:\users\sebastian\source\repos\phonebook\phonebook\phonebook.cpp(120): warning C4715: 'Phonebook::checkIfNameExcist': not all control paths return a value
+c:\users\sebastian\source\repos\phonebook\phonebook\phonebook.cpp(91): warning C4715: 'Phonebook::getNumber': not all control paths return a value
+  Phonebook.vcxproj -> C:\Users\sebastian\source\repos\Phonebook\Debug\Phonebook.exe

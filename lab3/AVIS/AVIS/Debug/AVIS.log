@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AVIS.cpp
+f:\c++\lab3\avis\avis\avis.cpp(152): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Jeep.cpp
+  Microbus.cpp
+  Sedan.cpp
+  Vehicle.cpp
+f:\c++\lab3\avis\avis\vehicle.cpp(27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\c++\lab3\avis\avis\vehicle.cpp(47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\c++\lab3\avis\avis\vehicle.cpp(52): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  AVIS.vcxproj -> F:\c++\lab3\AVIS\Debug\AVIS.exe

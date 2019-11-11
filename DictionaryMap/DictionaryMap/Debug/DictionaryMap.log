@@ -1,0 +1,3 @@
+﻿  DictionaryMap.cpp
+c:\users\sebastian\source\repos\dictionarymap\dictionarymap\dictionarymap.cpp(27): warning C4715: 'checkIfWordExcist': not all control paths return a value
+  DictionaryMap.vcxproj -> C:\Users\sebastian\source\repos\DictionaryMap\Debug\DictionaryMap.exe
